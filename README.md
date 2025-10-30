@@ -35,10 +35,7 @@ The application will start a local server that you can access through your web b
 ## Repository Structure
 
 ```
-ai mine project/
-├── README.md              # This file
-├── QWEN.md                # AI context file (not pushed to remote)
-├── INSTRUCTION.md         # Instruction file (not pushed to remote)
+ai mine project/         
 ├── study_planner/         # Main project directory
 │   ├── .gitignore
 │   ├── README.md
